@@ -71,8 +71,8 @@ audio.write_audiofile("summer_song.wav")
 ![Song Visualization](./Screenshots/Screenshot%202025-03-03%20125624.png)
 *Waveform visualization of a generated song with lyrics*
 
-![Mobile Interface](./Screenshots/WhatsApp%20Image%202025-03-03%20at%202.40.43%20PM.jpeg)
-*Mobile-friendly interface for on-the-go creation*
+![Mobile Interface](./Screenshots/Screenshot%202025-03-03%20153113.png)
+*Mobile-friendly interface showcasing easy music generation on smartphones*
 
 ## 🔍 How It Works
 
